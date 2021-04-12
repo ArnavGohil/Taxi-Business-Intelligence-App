@@ -77,7 +77,7 @@ public class Login extends javax.swing.JFrame {
         jLabel6.setText("INTERNAL");
         jPanel2.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 220, -1, 30));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("/Users/arnavgohil/Downloads/chart2.jpg")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/chart2.jpg"))); // NOI18N
         jPanel2.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 360, 536));
 
         getContentPane().add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 360, 530));
@@ -123,7 +123,7 @@ public class Login extends javax.swing.JFrame {
         jLabel7.setForeground(new java.awt.Color(153, 153, 153));
         jLabel7.setText("Everyone's Private Driver");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("/Users/arnavgohil/Desktop/logo.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/logo.png"))); // NOI18N
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);

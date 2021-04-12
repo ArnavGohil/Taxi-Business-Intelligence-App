@@ -63,7 +63,7 @@ public class Map extends javax.swing.JFrame {
         });
         p1.setLayout(null);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/load.png"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/load.png"))); // NOI18N
         p1.add(jLabel2);
         jLabel2.setBounds(30, 30, 60, 50);
 

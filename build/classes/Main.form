@@ -69,7 +69,7 @@
           <Properties>
             <Property name="horizontalAlignment" type="int" value="0"/>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="/Users/arnavgohil/Downloads/power-button.png"/>
+              <Image iconType="3" name="/images/power-button.png"/>
             </Property>
           </Properties>
           <Events>
@@ -163,7 +163,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="0"/>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="/Users/arnavgohil/Downloads/info.png"/>
+                  <Image iconType="3" name="/images/info.png"/>
                 </Property>
               </Properties>
             </Component>
@@ -182,7 +182,7 @@
           <Properties>
             <Property name="horizontalAlignment" type="int" value="0"/>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="/Users/arnavgohil/Downloads/folder.png"/>
+              <Image iconType="3" name="/images/folder.png"/>
             </Property>
             <Property name="toolTipText" type="java.lang.String" value="Under Construction"/>
           </Properties>
@@ -198,7 +198,7 @@
         <Component class="javax.swing.JLabel" name="jLabel26">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="/Users/arnavgohil/Desktop/logo small.png"/>
+              <Image iconType="3" name="/images/logo small.png"/>
             </Property>
             <Property name="toolTipText" type="java.lang.String" value="Everyone&apos;s Private Driver"/>
           </Properties>
@@ -574,7 +574,7 @@
               <Color blue="33" green="ff" red="33" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="/Users/arnavgohil/Downloads/up-and-down.png"/>
+              <Image iconType="3" name="/images/up-and-down.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="15% &#x2191;"/>
             <Property name="horizontalTextPosition" type="int" value="10"/>
@@ -586,7 +586,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="/Users/arnavgohil/Downloads/taxi.png"/>
+              <Image iconType="3" name="/images/taxi.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="23459 Trips"/>
           </Properties>
@@ -597,7 +597,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="/Users/arnavgohil/Downloads/rain.png"/>
+              <Image iconType="3" name="/images/rain.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="15%"/>
           </Properties>
@@ -609,7 +609,7 @@
             </Property>
             <Property name="horizontalAlignment" type="int" value="11"/>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="/Users/arnavgohil/Downloads/wind.png"/>
+              <Image iconType="3" name="/images/wind.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="4 Kt"/>
             <Property name="horizontalTextPosition" type="int" value="10"/>
@@ -626,7 +626,7 @@
         <Component class="javax.swing.JLabel" name="jLabel14">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="/Users/arnavgohil/Downloads/Screenshot 2021-01-27 at 9.26.28 AM.png"/>
+              <Image iconType="3" name="/images/map_pre.png"/>
             </Property>
             <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
               <Dimension value="[375, 370]"/>

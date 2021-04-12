@@ -239,7 +239,7 @@ public class Main extends javax.swing.JFrame {
         jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 550, 80, -1));
 
         jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel6.setIcon(new javax.swing.ImageIcon("/Users/arnavgohil/Downloads/power-button.png")); // NOI18N
+        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/power-button.png"))); // NOI18N
         jLabel6.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel6MouseClicked(evt);
@@ -261,7 +261,7 @@ public class Main extends javax.swing.JFrame {
         jPanel3.setBackground(new java.awt.Color(23, 28, 49));
 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setIcon(new javax.swing.ImageIcon("/Users/arnavgohil/Downloads/info.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/info.png"))); // NOI18N
 
         jLabel7.setForeground(new java.awt.Color(149, 58, 170));
         jLabel7.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
@@ -297,7 +297,7 @@ public class Main extends javax.swing.JFrame {
         jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 200, -1, 70));
 
         jLabel10.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel10.setIcon(new javax.swing.ImageIcon("/Users/arnavgohil/Downloads/folder.png")); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/folder.png"))); // NOI18N
         jLabel10.setToolTipText("Under Construction");
         jLabel10.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -306,7 +306,7 @@ public class Main extends javax.swing.JFrame {
         });
         jPanel1.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 290, 80, -1));
 
-        jLabel26.setIcon(new javax.swing.ImageIcon("/Users/arnavgohil/Desktop/logo small.png")); // NOI18N
+        jLabel26.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/logo small.png"))); // NOI18N
         jLabel26.setToolTipText("Everyone's Private Driver");
         jPanel1.add(jLabel26, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 30, -1, -1));
 
@@ -436,28 +436,28 @@ public class Main extends javax.swing.JFrame {
         dt.setText("February 4, 2021");
 
         jLabel16.setForeground(new java.awt.Color(51, 255, 51));
-        jLabel16.setIcon(new javax.swing.ImageIcon("/Users/arnavgohil/Downloads/up-and-down.png")); // NOI18N
+        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/up-and-down.png"))); // NOI18N
         jLabel16.setText("15% ↑");
         jLabel16.setHorizontalTextPosition(javax.swing.SwingConstants.LEADING);
 
         jLabel17.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel17.setIcon(new javax.swing.ImageIcon("/Users/arnavgohil/Downloads/taxi.png")); // NOI18N
+        jLabel17.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/taxi.png"))); // NOI18N
         jLabel17.setText("23459 Trips");
 
         rc.setForeground(new java.awt.Color(255, 255, 255));
-        rc.setIcon(new javax.swing.ImageIcon("/Users/arnavgohil/Downloads/rain.png")); // NOI18N
+        rc.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/rain.png"))); // NOI18N
         rc.setText("15%");
 
         wind.setForeground(new java.awt.Color(255, 255, 255));
         wind.setHorizontalAlignment(javax.swing.SwingConstants.TRAILING);
-        wind.setIcon(new javax.swing.ImageIcon("/Users/arnavgohil/Downloads/wind.png")); // NOI18N
+        wind.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/wind.png"))); // NOI18N
         wind.setText("4 Kt");
         wind.setHorizontalTextPosition(javax.swing.SwingConstants.LEADING);
 
         da.setForeground(new java.awt.Color(255, 255, 255));
         da.setText("Thursday");
 
-        jLabel14.setIcon(new javax.swing.ImageIcon("/Users/arnavgohil/Downloads/Screenshot 2021-01-27 at 9.26.28 AM.png")); // NOI18N
+        jLabel14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/map_pre.png"))); // NOI18N
         jLabel14.setPreferredSize(new java.awt.Dimension(375, 370));
         jLabel14.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
